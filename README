@@ -26,7 +26,7 @@ The programs include:
 	- Shifted QR algorithm with deflation
 	- Singular value decomposition (SVD)
 4) Partial Differential Equations (P.D.E.)
-	- One-dimensioal Heat Equation
+	- One-dimensioal Heat Equations
 		i. Forward difference method
 		ii. Backward difference method
 		iii. Crank-Nicolson scheme
