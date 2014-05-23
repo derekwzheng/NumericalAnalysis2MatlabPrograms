@@ -1,7 +1,7 @@
 % Input: space interval [xl, xr], time interval [tb, tt],
 %        space step size h, and time step size k
 % Output: solution w
-function w = crankNicolson(xl,xr,tb,tt, h, k)
+function w = crankNicolson(xl, xr, tb,t t, h, k)
 D = 4.2e-5;                                % diffusivity
 M = (xr - xl) / h;
 N = (tt - tb) / k;          
