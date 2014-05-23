@@ -1,0 +1,39 @@
+This is a collection of my homework assignments and projects of MATH 128B
+(Numerical Analysis 2) at UC Berkeley. All the programs in this repository
+are written in Matlab, but we can also run them on Octave.
+
+The programs include:
+1) Linear System Solvers
+	- Gaussian elimination
+	- Gaussian elimination with partial pivoting (GEPP)
+	- LU factorization
+	- Cholesky factorization
+	- Conjugate gradient method
+	- Jacobi method
+	- Gauss-Seidel method
+	- Generalized minimal residual method (GMRES)
+2) Least Squares
+	- QR factorization using Gram-Schmidt process
+	- QR factorization using Householder reflectors
+3) Eigenvalues and Eigenvectors
+	- Rayleigh's quotient
+	- Power iteration
+	- Inverse power iteration
+	- Rayleigh quotient iteration
+	- simultaneous iteration
+	- Pure QR algorithm
+	- Bring a matrix into upper Hessenberg form
+	- Shifted QR algorithm with deflation
+	- Singular value decomposition (SVD)
+4) Partial Differential Equations (P.D.E.)
+	- One-dimensioal Heat Equation
+		i. Forward difference method
+		ii. Backward difference method
+		iii. Crank-Nicolson scheme
+	- Baby wave equations
+		i. Forward difference method
+		ii. Lax-Friedrichs scheme
+		iii. Lax-Wendroff scheme
+		iv. Crank-Nicolson scheme
+	- Wave equations
+		i. Leap-frog scheme
